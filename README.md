@@ -124,9 +124,7 @@ Mở Developer Tools hoặc dùng công cụ responsive của trình duyệt đ�
 - **Nền tảng:** Chưa xác định được từ thông tin repository hiện có.
 - **Repository nguồn:** [vanhkazen/portfolio_vanhdev](https://github.com/vanhkazen/portfolio_vanhdev)
 - **Nhánh mặc định:** `main` (đã xác minh); nhánh triển khai chưa xác định.
-- **URL website:** Chưa xác minh; cần tác giả cung cấp.
-
-Để xác nhận cách xuất bản, kiểm tra **Settings → Pages** trong repository và xem **Build and deployment**. Hiện tại chưa có cấu hình GitHub Pages được xác nhận qua API. Nếu trang thực tế dùng nền tảng khác, cần ghi tên nền tảng, nhánh hoặc quy trình triển khai và URL tương ứng tại đây. Sau khi xác định quy trình, cập nhật website bằng cách đẩy phiên bản mới lên nguồn/nhánh mà nền tảng đó sử dụng.
+- **URL website:** [portfoliovanhdev.vercel.app](https://portfoliovanhdev.vercel.app)
 
 ## Hồ sơ tác giả và minh chứng
 
@@ -137,7 +135,7 @@ Mở Developer Tools hoặc dùng công cụ responsive của trình duyệt đ�
 ### Minh chứng sản phẩm
 
 - **Repository:** [github.com/vanhkazen/portfolio_vanhdev](https://github.com/vanhkazen/portfolio_vanhdev)
-- **Website đã xuất bản:** Chưa xác minh được URL; cần bổ sung.
+- **Website đã xuất bản:** [portfoliovanhdev.vercel.app](https://portfoliovanhdev.vercel.app)
 - **Ảnh chụp giao diện hoặc tài liệu minh chứng:** Chưa tìm thấy trong các file và thư mục hiện có của repository.
 
 ## Tác giả và thương hiệu

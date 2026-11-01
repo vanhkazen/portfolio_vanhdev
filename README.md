@@ -9,7 +9,7 @@ Website hồ sơ cá nhân một trang của **Trần Việt Anh**, giới thi�
 ## Repository và Live Demo
 
 - **Source Code Repository:** [github.com/vanhkazen/portfolio_vanhdev](https://github.com/vanhkazen/portfolio_vanhdev)
-- **Live Website:** Chưa xác minh được URL website đã xuất bản. Vui lòng bổ sung URL triển khai thực tế.
+- **Live Website:** [portfoliovanhdev.vercel.app](https://portfoliovanhdev.vercel.app)
 
 Repository công khai đã được xác minh; nhánh mặc định là `main`. Không tìm thấy URL trong trường homepage của repository và GitHub Pages API không trả về cấu hình Pages.
 
